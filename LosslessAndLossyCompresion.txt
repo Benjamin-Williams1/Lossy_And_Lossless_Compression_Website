@@ -1,0 +1,26 @@
+<html>
+<body style="background-color:DodgerBlue">
+<span style="float: left;"><h3><font size = 50>Lossless Compression</h3></font>
+<font size = 4>
+<ul>
+<li>All the original data can be recovered when the file is uncompressed.</li>
+<li>Used with text as all data must be recoverable.</li>
+<li>Example techniques run-length encoding, dictionary encoding.</li>
+<li>Not normally applied to video as higher compression rates are needed to make files smaller.</li>
+<li>Example file formats .zip, .png</li>
+</ul>
+</font>
+</span> 
+<span style="float: right;"><h3><font size = 50>Lossy Compresion</h3></font>
+<font size = 4>
+<ul>
+<li>Some of the data is permanently removed during compression and cannot be recovered.</li>
+<li>Provide more compression than lossless techniques.</li>
+<li>Popular in situations where the removal of data is not noticeable as in the case of images and audio.</li>
+<li>Example file formats .jpg, .gif,  .mp3</li>
+</ul>
+</font>
+</span>
+<img src="https://www.maketecheasier.com/assets/uploads/2014/03/imagecompression-lossy.jpg" alt="Lossy Compression" style="width:535px;height:183px;">
+</body>
+</html>
